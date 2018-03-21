@@ -1,7 +1,3 @@
----
-typora-root-url: ./pi/versus/5-Iterative Ternary_7-Fibonacci Search_13.png
----
-
 # Análise Empírica de Algoritmos de Busca
 Disciplina: Estrutura de Dados Básicas I, Universidade Federal do Rio Grande do Norte ([UFRN](http://http://www.ufrn.br))
 
